@@ -1,21 +1,13 @@
-## 🚀 About Me
+## 👋 About Me
 
-👋 Hi there! I'm Bharath Raj Yerrabothu, a data analyst specializing in extracting valuable insights from data using Python, Excel, SQL, Tableau, and Power BI. Based in OHIO, I am passionate about leveraging data to inform business decisions and drive growth.
+I'm a **Data Engineer** focused on building reliable, scalable, and production-oriented data platforms.
 
-🔍 **Technologies I Excel In:**
-- **Python:** Data manipulation, analysis, and visualization
-- **Excel:** Advanced functions, pivot tables, and data modeling
-- **SQL:** Database management and querying for data extraction
-- **Tableau:** Creating interactive and insightful dashboards
-- **Power BI:** Designing reports and visualizations to support decision-making
+- 🔧 Building ETL/ELT pipelines using **Python, SQL, Spark/PySpark, dbt, and Apache Airflow**
+- 🏗️ Working with modern data platforms including **Snowflake, Databricks, AWS, and GCP**
+- 📊 Experienced with data modeling, transformation, orchestration, data quality, and pipeline optimization
+- 🤖 Exploring **AI-powered data engineering and intelligent pipeline automation**
+- 🚀 Recently built an **Airflow Reliability Agent** for AI-assisted failure detection, root-cause analysis, controlled remediation, and recovery verification
+- ☁️ **AWS Certified Data Engineer – Associate**
+- 💼 Open to **Data Engineer, Data Platform Engineer, and AI/Data Engineering opportunities**
 
-🌱 Currently, I’m enhancing my skills in Advanced Analytics Techniques, Python, Data Story Telling.
-
-💬 I love collaborating with teams to solve data challenges and uncover actionable insights. 
-
-📫 **Contact:**
-- Email: bharath.yerra99@gmail.com
-- LinkedIn: www.linkedin.com/in/bharath-raj9
-
-
-Thanks for visiting my profile!
+I enjoy solving data problems where **reliability, automation, scalability, and engineering quality** matter.
